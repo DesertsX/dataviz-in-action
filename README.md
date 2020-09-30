@@ -8,6 +8,7 @@
 
 ## 复现作品
 ### EP01: 财新网「星空彩绘诺贝尔奖」可视化作品
-原作品链接：http://datanews.caixin.com/2013/nobel/index.html   
-复现过程文章记述：[财新网「星空彩绘诺贝尔奖」可视化作品复现 - 古柳 - 牛衣古柳公众号](https://mp.weixin.qq.com/s/MY1GumgPWSktLbuw-lHH5Q)
+原作品链接：http://datanews.caixin.com/2013/nobel/index.html    
+复现过程文章记述：[财新网「星空彩绘诺贝尔奖」可视化作品复现 - 古柳 - 牛衣古柳公众号](https://mp.weixin.qq.com/s/MY1GumgPWSktLbuw-lHH5Q)   
+效果演示：https://desertsx.github.io/dataviz-in-action/01-caixin-nobel/
 ![](./01-caixin-nobel/复现过程.jpg)
