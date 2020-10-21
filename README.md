@@ -10,7 +10,7 @@
 ### EP01: 财新网「星空彩绘诺贝尔奖」可视化作品
 原作品链接：http://datanews.caixin.com/2013/nobel/index.html    
 复现过程文章记述：[财新网「星空彩绘诺贝尔奖」可视化作品复现 - 古柳 - 牛衣古柳公众号](https://mp.weixin.qq.com/s/MY1GumgPWSktLbuw-lHH5Q)   
-效果演示：https://desertsx.github.io/dataviz-in-action/01-caixin-nobel/ 
+效果演示：https://desertsx.github.io/dataviz-in-action/01-caixin-nobel/index.html
 ![](./01-caixin-nobel/复现效果.jpg)
 
 ### EP01.5: 「MeToomentum」可视化作品
@@ -24,6 +24,6 @@
 原作是 `Wendy Shijia` 用 `Tableau` 所作，`古柳` 用 `D3.js` 进行复现。注：点击有颜色的区域会显示每部作品详细数据；点击其他区域会隐藏显示。    
 原作品链接：[Tableau: Wendy Shijia/Escher's Gallery](https://public.tableau.com/profile/wendy.shijia#!/vizhome/MCEschersGallery_15982882031370/Gallery)    
 相关推特：[@ShijiaWendy](https://twitter.com/ShijiaWendy/status/1297950623141203968)   
-复现文章记述：将会马上写完更新到公众号`「牛衣古柳」`，敬请期待。 
-效果演示：https://desertsx.github.io/dataviz-in-action/02-eschers-gallery/
+复现文章记述：将会马上写完更新到公众号`「牛衣古柳」`，敬请期待。   
+效果演示：https://desertsx.github.io/dataviz-in-action/02-eschers-gallery/index.html
 ![](./02-eschers-gallery/复现效果.jpg)
