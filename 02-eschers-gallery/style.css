@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  background: #f2f2e8;
+}
+
+body {
+  font-size: 16px;
+}
+
+#container {
+  position: relative;
+}
+
+svg {
+  width: 100vw;
+  height: 100vh;
+}
+
+.tooltip {
+  opacity: 0;
+  position: absolute;
+  min-width: 260px;
+  top: -12px;
+  left: 0px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+  z-index: 10;
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+}
+
+.tooltip-title {
+  font-size: 1em;
+}
+
+.tooltip-date {
+  font-size: 0.4em;
+}
+
+.tooltip-type {
+  font-size: 0.6em;
+}
+
+.tooltip-image img {
+  width: 150px;
+  height: 200px;
+}
+
+.tooltip-url a {
+  text-decoration: none;
+  color: #5991c2;
+  font-size: 0.8em;
+}

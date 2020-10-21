@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escher's Gallery</title>
+    <!-- Origin Tableau version: Wendy Shijia @ShijiaWendy -->
+    <!-- https://twitter.com/ShijiaWendy/status/1297950623141203968 -->
+    <!-- https://public.tableau.com/profile/wendy.shijia#!/vizhome/MCEschersGallery_15982882031370/Gallery -->
+
+    <!-- Reproduced D3.js version 古柳GuLiu @Deserts_X 尝试自己用 D3.js 复现了下；代码疑问可微信咨询古柳「xiaozhj」 -->
+    <!-- https://github.com/DesertsX/dataviz-in-action -->
+    <!-- https://twitter.com/Deserts_X -->
+    <link rel="stylesheet" href="./style.css">
+    <script src="../d3.js"></script>
+    <script src="https://d3js.org/d3-array.v2.min.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="main">
+            <!-- https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/ -->
+            <svg id="chart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <polygon id="unit-0" points="0,0 16,0 16,16 32,16 32,32 0,32"
+                        transform="scale(1.4,.8) rotate(-45) translate(-20, 132.3)" />
+                    <polygon id="unit-1" points="0,0 32,0 32,32 16,32 16,16 0,16"
+                        transform="skewY(30) translate(111, 22)" />
+                    <polygon id="unit-2" points="0,0 32,0 32,16 16,16 16,32 0,32"
+                        transform="skewY(-30) translate(143, 187)" />
+                </defs>
+            </svg>
+        </div>
+
+        <div id="tooltip" class="tooltip">
+            <div class="tooltip-title" id="title"></div>
+            <div class="tooltip-date" id="date"></div>
+            <div class="tooltip-type" id="type">
+                <span id='style'></span> | <span id='genre'></span>
+            </div>
+            <div class="tooltip-image" id="image"><img alt=""></div>
+            <div class="tooltip-url" id="url"><a target="_blank">go to link</a></div>
+        </div>
+    </div>
+    <script src="./app.js"></script>
+</body>
+
+</html>

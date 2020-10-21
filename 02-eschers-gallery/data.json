@@ -1,0 +1,4232 @@
+[
+  {
+    "id": 0,
+    "url": "https://www.wikiart.org/en/m-c-escher/bookplate-bastiaan-kist",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/bookplate-bastiaan-kist.jpg",
+    "title": "Bookplate Bastiaan Kist",
+    "date": "1916",
+    "style": "Surrealism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 1,
+    "url": "https://www.wikiart.org/en/m-c-escher/chrysanthemum",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/chrysanthemum.jpg",
+    "title": "Chrysanthemum",
+    "date": "1916",
+    "style": "Realism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 2,
+    "url": "https://www.wikiart.org/en/m-c-escher/escher-s-father",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/escher-s-father.jpg",
+    "title": "Escher's Father",
+    "date": "1916",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 3,
+    "url": "https://www.wikiart.org/en/m-c-escher/head-of-a-child",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/head-of-a-child.jpg",
+    "title": "Head of a Child",
+    "date": "1916",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 4,
+    "url": "https://www.wikiart.org/en/m-c-escher/baby",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/baby.jpg",
+    "title": "Baby",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 5,
+    "url": "https://www.wikiart.org/en/m-c-escher/mascot",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/mascot.jpg",
+    "title": "Mascot",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "still life"
+  },
+  {
+    "id": 6,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204642",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204642.jpg",
+    "title": "Hen with Egg",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 7,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204644",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204644.jpg",
+    "title": "NOT DETECTED",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "still life"
+  },
+  {
+    "id": 8,
+    "url": "https://www.wikiart.org/en/m-c-escher/portrait-of-a-man",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/portrait-of-a-man.jpg",
+    "title": "Portrait of a Man",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 9,
+    "url": "https://www.wikiart.org/en/m-c-escher/railway-bridge-oosterbeek",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/railway-bridge-oosterbeek.jpg",
+    "title": "Railway Bridge, Oosterbeek",
+    "date": "1917",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 10,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait-ii",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/self-portrait-ii.jpg",
+    "title": "Self Portrait II",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 11,
+    "url": "https://www.wikiart.org/en/m-c-escher/skull",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/skull.jpg",
+    "title": "Skull",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "vanitas"
+  },
+  {
+    "id": 12,
+    "url": "https://www.wikiart.org/en/m-c-escher/skull-with-cigarette-1917",
+    "img": "https://uploads3.wikiart.org/00277/images/m-c-escher/escher-skull-with-cigarette.jpg!Large.jpg",
+    "title": "Skull with Cigarette",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 13,
+    "url": "https://www.wikiart.org/en/m-c-escher/young-thrush",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/young-thrush.jpg",
+    "title": "Young Thrush",
+    "date": "1917",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 14,
+    "url": "https://www.wikiart.org/en/m-c-escher/fiet-van-stolk",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/fiet-van-stolk.jpg",
+    "title": "Fiet van Stolk",
+    "date": "1918",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 15,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204645",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204645.jpg",
+    "title": "Two bells",
+    "date": "1918",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 16,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/self-portrait.jpg",
+    "title": "Self Portrait",
+    "date": "1918",
+    "style": "Expressionism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 17,
+    "url": "https://www.wikiart.org/en/m-c-escher/sunflowers",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/sunflowers.jpg!Large.jpg",
+    "title": "Sunflowers",
+    "date": "1918",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 18,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-rag-pickers",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/the-rag-pickers.jpg",
+    "title": "The Rag Pickers",
+    "date": "1918",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 19,
+    "url": "https://www.wikiart.org/en/m-c-escher/life-force",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/life-force.jpg!Large.jpg",
+    "title": "Life Force",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 20,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204646",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204646.jpg",
+    "title": "Blocks of Basalt along the Sea",
+    "date": "1919",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 21,
+    "url": "https://www.wikiart.org/en/m-c-escher/parrot",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/parrot.jpg!Large.jpg",
+    "title": "Parrot",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 22,
+    "url": "https://www.wikiart.org/en/m-c-escher/portrait-of-a-bearded-man",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/portrait-of-a-bearded-man.jpg!Large.jpg",
+    "title": "Portrait of a Bearded Man",
+    "date": "1919",
+    "style": "Cubism",
+    "genre": "portrait"
+  },
+  {
+    "id": 23,
+    "url": "https://www.wikiart.org/en/m-c-escher/sea-shells",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/sea-shells.jpg!Large.jpg",
+    "title": "Sea Shells",
+    "date": "1919",
+    "style": "Op Art",
+    "genre": "still life"
+  },
+  {
+    "id": 24,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-man-with-cat-on-his-lap",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/seated-man-with-cat-on-his-lap.jpg",
+    "title": "Seated Man with Cat on His Lap",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 25,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait-1",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/self-portrait-1.jpg!Large.jpg",
+    "title": "Self Portrait",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 26,
+    "url": "https://www.wikiart.org/en/m-c-escher/skull-1",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/skull-1.jpg!Large.jpg",
+    "title": "Skull",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "vanitas"
+  },
+  {
+    "id": 27,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-borger-oak",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/the-borger-oak.jpg",
+    "title": "The Borger Oak",
+    "date": "1919",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 28,
+    "url": "https://www.wikiart.org/en/m-c-escher/twon-tree",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/twon-tree.jpg!Large.jpg",
+    "title": "Twon Tree",
+    "date": "1919",
+    "style": "Surrealism",
+    "genre": "tessellation"
+  },
+  {
+    "id": 29,
+    "url": "https://www.wikiart.org/en/m-c-escher/white-cat-i",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/white-cat-i.jpg!Large.jpg",
+    "title": "White Cat I",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 30,
+    "url": "https://www.wikiart.org/en/m-c-escher/white-cat-ii",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/white-cat-ii.jpg",
+    "title": "White Cat II",
+    "date": "1919",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 31,
+    "url": "https://www.wikiart.org/en/m-c-escher/fall-of-man",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/fall-of-man.jpg!Large.jpg",
+    "title": "Fall of man",
+    "date": "1920",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 32,
+    "url": "https://www.wikiart.org/en/m-c-escher/father-with-magnifying-glass",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/father-with-magnifying-glass.jpg!Large.jpg",
+    "title": "Father with Magnifying Glass",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 33,
+    "url": "https://www.wikiart.org/en/m-c-escher/female-nude-i",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/female-nude-i.jpg",
+    "title": "Female Nude I",
+    "date": "1920",
+    "style": "Surrealism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 34,
+    "url": "https://www.wikiart.org/en/m-c-escher/female-nude-in-a-landscape",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/female-nude-in-a-landscape.jpg!Large.jpg",
+    "title": "Female Nude in a Landscape",
+    "date": "1920",
+    "style": "Surrealism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 35,
+    "url": "https://www.wikiart.org/en/m-c-escher/flower",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/flower.jpg!Large.jpg",
+    "title": "Flower",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 36,
+    "url": "https://www.wikiart.org/en/m-c-escher/in-mesquitas-classroom",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/in-mesquitas-classroom.jpg!Large.jpg",
+    "title": "In Mesquitas Classroom",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 37,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204648",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204648.jpg",
+    "title": "NOT DETECTED",
+    "date": "1920",
+    "style": "Surrealism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 38,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204649",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204649.jpg",
+    "title": "Sea Shells",
+    "date": "1920",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 39,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204650",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204650.jpg",
+    "title": "Female Nude in Chair",
+    "date": "1920",
+    "style": "Cubism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 40,
+    "url": "https://www.wikiart.org/en/m-c-escher/portrait-of-a-man-1",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/portrait-of-a-man-1.jpg",
+    "title": "Portrait of a Man",
+    "date": "1920",
+    "style": "Op Art",
+    "genre": "portrait"
+  },
+  {
+    "id": 41,
+    "url": "https://www.wikiart.org/en/m-c-escher/poster",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/poster.jpg",
+    "title": "Poster",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 42,
+    "url": "https://www.wikiart.org/en/m-c-escher/roosje-ingen-housz",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/roosje-ingen-housz.jpg!Large.jpg",
+    "title": "Roosje Ingen Housz",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 43,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-female-nude-i",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/seated-female-nude-i.jpg!Large.jpg",
+    "title": "Seated Female Nude I",
+    "date": "1920",
+    "style": "Cubism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 44,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-female-nude-iii",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/seated-female-nude-iii.jpg!Large.jpg",
+    "title": "Seated Female Nude III",
+    "date": "1920",
+    "style": "Cubism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 45,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-old-woman",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/seated-old-woman.jpg!Large.jpg",
+    "title": "Seated Old Woman",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 46,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait-in-a-chair",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/self-portrait-in-a-chair.jpg!Large.jpg",
+    "title": "Self Portrait in a Chair",
+    "date": "1920",
+    "style": "Expressionism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 47,
+    "url": "https://www.wikiart.org/en/m-c-escher/wild-west-1920",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/wild-west-1920.jpg",
+    "title": "Wild West",
+    "date": "1920",
+    "style": "Surrealism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 48,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-beautiful",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/flor-de-pascua-beautiful.jpg",
+    "title": "Flor de Pascua - Beautiful",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 49,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-convention",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/flor-de-pascua-convention.jpg",
+    "title": "Flor de Pascua - Convention",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 50,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-fulfillment",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/flor-de-pascua-fulfillment.jpg",
+    "title": "Flor de Pascua - Fulfillment",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 51,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-la-pensee",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/flor-de-pascua-la-pensee.jpg",
+    "title": "Flor de Pascua - La Pensee",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 52,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-the-scapegoat",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/flor-de-pascua-the-scapegoat.jpg",
+    "title": "Flor de Pascua - The Scapegoat",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 53,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-the-weathercock",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/flor-de-pascua-the-weathercock.jpg",
+    "title": "Flor de Pascua - The Weathercock",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 54,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-theosophy",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/flor-de-pascua-theosophy.jpg",
+    "title": "Flor de Pascua - Theosophy",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 55,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-untitled",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/flor-de-pascua-untitled.jpg",
+    "title": "Flor de Pascua - Untitled",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 56,
+    "url": "https://www.wikiart.org/en/m-c-escher/flor-de-pascua-whore-s-superstition",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/flor-de-pascua-whore-s-superstition.jpg",
+    "title": "Flor de Pascua - Whore's Superstition",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 57,
+    "url": "https://www.wikiart.org/en/m-c-escher/hand-with-fir-cone",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/hand-with-fir-cone.jpg!Large.jpg",
+    "title": "Hand with Fir Cone",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "still life"
+  },
+  {
+    "id": 58,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204651",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204651.jpg",
+    "title": "Plane-Filling Motif with Human Motifs",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 59,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204652",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204652.jpg",
+    "title": "Hand with Fir Cone",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 60,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204653",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204653.jpg",
+    "title": "NOT DETECTED",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "figurative"
+  },
+  {
+    "id": 61,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204654",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204654.jpg",
+    "title": "Flor de Pascua - Never think before you act",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 62,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204655",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204655.jpg",
+    "title": "Flor de Pascua - Madonna",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 63,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204656",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204656.jpg",
+    "title": "NOT DETECTED",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "tessellation"
+  },
+  {
+    "id": 64,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204657",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204657.jpg",
+    "title": "Wood near Menton",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 65,
+    "url": "https://www.wikiart.org/en/m-c-escher/paradise",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/paradise.jpg!Large.jpg",
+    "title": "Paradise",
+    "date": "1921",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 66,
+    "url": "https://www.wikiart.org/en/m-c-escher/perfume",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/perfume.jpg!Large.jpg",
+    "title": "Perfume",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 67,
+    "url": "https://www.wikiart.org/en/m-c-escher/plane-filling-motif-with-human-figures",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/plane-filling-motif-with-human-figures.jpg",
+    "title": "Plane Filling Motif with Human Figures",
+    "date": "1921",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 68,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-female-nude",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/seated-female-nude.jpg",
+    "title": "Seated Female Nude",
+    "date": "1921",
+    "style": "Cubism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 69,
+    "url": "https://www.wikiart.org/en/m-c-escher/seated-female-nude-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/seated-female-nude-1.jpg",
+    "title": "Seated Female Nude",
+    "date": "1921",
+    "style": "Expressionism",
+    "genre": "nude painting (nu)"
+  },
+  {
+    "id": 70,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-sphere",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-sphere.jpg",
+    "title": "The Sphere",
+    "date": "1921",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 71,
+    "url": "https://www.wikiart.org/en/m-c-escher/bookplate-b-g-escher-beer",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/bookplate-b-g-escher-beer.jpg",
+    "title": "Bookplate B.G. Escher [Beer]",
+    "date": "1922",
+    "style": "Expressionism",
+    "genre": "abstract"
+  },
+  {
+    "id": 72,
+    "url": "https://www.wikiart.org/en/m-c-escher/eight-heads",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/eight-heads.jpg!Large.jpg",
+    "title": "Eight Heads",
+    "date": "1922",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 73,
+    "url": "https://www.wikiart.org/en/m-c-escher/mural-mosaic-in-the-alhambra",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/mural-mosaic-in-the-alhambra.jpg!Large.jpg",
+    "title": "Mural Mosaic in The Alhambra",
+    "date": "1922",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 74,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204658",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204658.jpg",
+    "title": "NOT DETECTED",
+    "date": "1922",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 75,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204659",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204659.jpg",
+    "title": "San Gimignano",
+    "date": "1922",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 76,
+    "url": "https://www.wikiart.org/en/m-c-escher/st-francis-preaching-to-the-birds",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/st-francis-preaching-to-the-birds.jpg!Large.jpg",
+    "title": "St. Francis preaching to the Birds",
+    "date": "1922",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 77,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-sea-at-the-mouth-of-the-ebro",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/the-sea-at-the-mouth-of-the-ebro.jpg!Large.jpg",
+    "title": "The Sea at the Mouth of the Ebro",
+    "date": "1922",
+    "style": "Art Nouveau (Modern)",
+    "genre": "landscape"
+  },
+  {
+    "id": 78,
+    "url": "https://www.wikiart.org/en/m-c-escher/dolphins",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/dolphins.jpg!Large.jpg",
+    "title": "Dolphins",
+    "date": "1923",
+    "style": "Op Art",
+    "genre": "animal painting"
+  },
+  {
+    "id": 79,
+    "url": "https://www.wikiart.org/en/m-c-escher/palm-tree",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/palm-tree.jpg!Large.jpg",
+    "title": "Palm Tree",
+    "date": "1923",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 80,
+    "url": "https://www.wikiart.org/en/m-c-escher/palm-tree-sketch",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/palm-tree-sketch.jpg!Large.jpg",
+    "title": "Palm Tree sketch",
+    "date": "1923",
+    "style": "Expressionism",
+    "genre": "sketch and study"
+  },
+  {
+    "id": 81,
+    "url": "https://www.wikiart.org/en/m-c-escher/ravello-i",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/ravello-i.jpg!Large.jpg",
+    "title": "Ravello I",
+    "date": "1923",
+    "style": "Surrealism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 82,
+    "url": "https://www.wikiart.org/en/m-c-escher/ravello-ii",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/ravello-ii.jpg!Large.jpg",
+    "title": "Ravello II",
+    "date": "1923",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 83,
+    "url": "https://www.wikiart.org/en/m-c-escher/ravello-iii",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/ravello-iii.jpg!Large.jpg",
+    "title": "Ravello III",
+    "date": "1923",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 84,
+    "url": "https://www.wikiart.org/en/m-c-escher/san-gimignano",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/san-gimignano.jpg",
+    "title": "San Gimignano",
+    "date": "1923",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 85,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait-2",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/self-portrait-2.jpg!Large.jpg",
+    "title": "Self-Portrait",
+    "date": "1923",
+    "style": "Expressionism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 86,
+    "url": "https://www.wikiart.org/en/m-c-escher/saint-vincent-martyr",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/saint-vincent-martyr.jpg",
+    "title": "Saint Vincent Martyr",
+    "date": "1925",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 87,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-1st-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-1st-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 1st Day of the Creation",
+    "date": "1925",
+    "style": "Op Art",
+    "genre": "animal painting"
+  },
+  {
+    "id": 88,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-2nd-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-2nd-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 2nd Day of the Creation",
+    "date": "1925",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 89,
+    "url": "https://www.wikiart.org/en/m-c-escher/vitorchiano-nel-cimino",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/vitorchiano-nel-cimino.jpg",
+    "title": "Vitorchiano nel Cimino",
+    "date": "1925",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 90,
+    "url": "https://www.wikiart.org/en/m-c-escher/birds",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/birds.jpg",
+    "title": "Birds",
+    "date": "1926",
+    "style": "Expressionism",
+    "genre": "tessellation"
+  },
+  {
+    "id": 91,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204660",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204660.jpg",
+    "title": "NOT DETECTED",
+    "date": "1926",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 92,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-3rd-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-3rd-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 3rd Day of the Creation",
+    "date": "1926",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 93,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-4th-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-4th-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 4th Day of the Creation",
+    "date": "1926",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 94,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-5th-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-5th-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 5th Day of the Creation",
+    "date": "1926",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 95,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-6th-day-of-the-creation",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-6th-day-of-the-creation.jpg!Large.jpg",
+    "title": "The 6th Day of the Creation",
+    "date": "1926",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 96,
+    "url": "https://www.wikiart.org/en/m-c-escher/procession-in-crypt",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/procession-in-crypt.jpg!Large.jpg",
+    "title": "Procession in Crypt",
+    "date": "1927",
+    "style": "Surrealism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 97,
+    "url": "https://www.wikiart.org/en/m-c-escher/rome-and-the-griffin-of-borgheses",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/rome-and-the-griffin-of-borgheses.jpg!Large.jpg",
+    "title": "Rome and the Griffin of Borgheses",
+    "date": "1927",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 98,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-fall-of-man",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/the-fall-of-man.jpg!Large.jpg",
+    "title": "The Fall of Man",
+    "date": "1927",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 99,
+    "url": "https://www.wikiart.org/en/m-c-escher/calanques-de-piana",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/calanques-de-piana.jpg!Large.jpg",
+    "title": "Calanques de\u00a0Piana",
+    "date": "1928",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 100,
+    "url": "https://www.wikiart.org/en/m-c-escher/castle-in-the-air",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/castle-in-the-air.jpg!Large.jpg",
+    "title": "Castle in the Air",
+    "date": "1928",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 101,
+    "url": "https://www.wikiart.org/en/m-c-escher/citadel-of-calvi-corsica",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/citadel-of-calvi-corsica.jpg!Large.jpg",
+    "title": "Citadel of Calvi Corsica",
+    "date": "1928",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 102,
+    "url": "https://www.wikiart.org/en/m-c-escher/fara-san-martino-abruzzi",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/fara-san-martino-abruzzi.jpg",
+    "title": "Fara San Martino, Abruzzi",
+    "date": "1928",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 103,
+    "url": "https://www.wikiart.org/en/m-c-escher/kairouan-tunisia",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/kairouan-tunisia.jpg!Large.jpg",
+    "title": "Kairouan Tunisia",
+    "date": "1928",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 104,
+    "url": "https://www.wikiart.org/en/m-c-escher/tower-of-babel",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/tower-of-babel.jpg!Large.jpg",
+    "title": "Tower of Babel",
+    "date": "1928",
+    "style": "Surrealism",
+    "genre": "religious painting"
+  },
+  {
+    "id": 105,
+    "url": "https://www.wikiart.org/en/m-c-escher/alfedena-abruzzi",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/alfedena-abruzzi.jpg!Large.jpg",
+    "title": "Alfedena Abruzzi",
+    "date": "1929",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 106,
+    "url": "https://www.wikiart.org/en/m-c-escher/cimino-barbarano",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/cimino-barbarano.jpg",
+    "title": "Cimino Barbarano",
+    "date": "1929",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 107,
+    "url": "https://www.wikiart.org/en/m-c-escher/corsica-corte",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/corsica-corte.jpg",
+    "title": "Corsica Corte",
+    "date": "1929",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 108,
+    "url": "https://www.wikiart.org/en/m-c-escher/infant-arthur",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/infant-arthur.jpg",
+    "title": "Infant Arthur",
+    "date": "1929",
+    "style": "Realism",
+    "genre": "portrait"
+  },
+  {
+    "id": 109,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204662",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204662.jpg",
+    "title": "Goriano Sicoli",
+    "date": "1929",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 110,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204663",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204663.jpg",
+    "title": "NOT DETECTED",
+    "date": "1929",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 111,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204664",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204664.jpg",
+    "title": "NOT DETECTED",
+    "date": "1929",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 112,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-drowned-cathedral",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/the-drowned-cathedral.jpg!Large.jpg",
+    "title": "The Drowned Cathedral",
+    "date": "1929",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 113,
+    "url": "https://www.wikiart.org/en/m-c-escher/fiumara-calabria",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/fiumara-calabria.jpg",
+    "title": "Fiumara, Calabria",
+    "date": "1930",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 114,
+    "url": "https://www.wikiart.org/en/m-c-escher/morano-calabria",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/morano-calabria.jpg",
+    "title": "Morano Calabria",
+    "date": "1930",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 115,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204665",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204665.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 116,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204666",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204666.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 117,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204667",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204667.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 118,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204668",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204668.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 119,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204669",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204669.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 120,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204670",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204670.jpg",
+    "title": "NOT DETECTED",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 121,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-bridge",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-bridge.jpg",
+    "title": "The Bridge",
+    "date": "1930",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 122,
+    "url": "https://www.wikiart.org/en/m-c-escher/castrovalva",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/castrovalva.jpg!Large.jpg",
+    "title": "Castrovalva",
+    "date": "1930",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 123,
+    "url": "https://www.wikiart.org/en/m-c-escher/atrani-coast-of-amalfi",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/atrani-coast-of-amalfi.jpg!Large.jpg",
+    "title": "Atrani, Coast of Amalfi",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 124,
+    "url": "https://www.wikiart.org/en/m-c-escher/cloister-near-rocca-imperiale-calabria",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/cloister-near-rocca-imperiale-calabria.jpg",
+    "title": "Cloister near Rocca Imperiale, Calabria",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 125,
+    "url": "https://www.wikiart.org/en/m-c-escher/coast-of-amalfi",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/coast-of-amalfi.jpg",
+    "title": "Coast of Amalfi",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 126,
+    "url": "https://www.wikiart.org/en/m-c-escher/covered-alley-in-atrani",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/covered-alley-in-atrani.jpg",
+    "title": "Covered Alley in Atrani",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 127,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-anvil",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/emblemata-anvil.jpg",
+    "title": "Emblemata - Anvil",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 128,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-balance",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/emblemata-balance.jpg",
+    "title": "Emblemata - Balance",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 129,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-beehive",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/emblemata-beehive.jpg",
+    "title": "Emblemata - Beehive",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 130,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-buoy",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-buoy.jpg",
+    "title": "Emblemata - Buoy",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 131,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-butterfly",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/emblemata-butterfly.jpg",
+    "title": "Emblemata - Butterfly",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 132,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-cactus",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/emblemata-cactus.jpg",
+    "title": "Emblemata - Cactus",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 133,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-candle-flame",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/emblemata-candle-flame.jpg",
+    "title": "Emblemata - Candle Flame",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 134,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-dice",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-dice.jpg",
+    "title": "Emblemata - Dice",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "illustration"
+  },
+  {
+    "id": 135,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-flint",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/emblemata-flint.jpg",
+    "title": "Emblemata - Flint",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 136,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-kite",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-kite.jpg",
+    "title": "Emblemata - Kite",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 137,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-lute",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-lute.jpg",
+    "title": "Emblemata - Lute",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "illustration"
+  },
+  {
+    "id": 138,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-retreat",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/emblemata-retreat.jpg",
+    "title": "Emblemata - Retreat",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "illustration"
+  },
+  {
+    "id": 139,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-signpost",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/emblemata-signpost.jpg",
+    "title": "Emblemata - Signpost",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 140,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-squirrel",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/emblemata-squirrel.jpg",
+    "title": "Emblemata - Squirrel",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "illustration"
+  },
+  {
+    "id": 141,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-steamroller",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/emblemata-steamroller.jpg",
+    "title": "Emblemata - Steamroller",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "illustration"
+  },
+  {
+    "id": 142,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-sundial",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/emblemata-sundial.jpg",
+    "title": "Emblemata - Sundial",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 143,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-toadstool",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/emblemata-toadstool.jpg",
+    "title": "Emblemata - Toadstool",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 144,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-vase",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-vase.jpg",
+    "title": "Emblemata - Vase",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "illustration"
+  },
+  {
+    "id": 145,
+    "url": "https://www.wikiart.org/en/m-c-escher/emblemata-well",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/emblemata-well.jpg",
+    "title": "Emblemata - Well",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 146,
+    "url": "https://www.wikiart.org/en/m-c-escher/farmhouse-ravello",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/farmhouse-ravello.jpg",
+    "title": "Farmhouse, Ravello",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 147,
+    "url": "https://www.wikiart.org/en/m-c-escher/farmhouse-ravello-colour",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/farmhouse-ravello-colour.jpg!Large.jpg",
+    "title": "Farmhouse, Ravello colour",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 148,
+    "url": "https://www.wikiart.org/en/m-c-escher/flowers",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/flowers.jpg",
+    "title": "Flowers",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 149,
+    "url": "https://www.wikiart.org/en/m-c-escher/frog",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/frog.jpg",
+    "title": "Frog",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 150,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-a",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-a.jpg",
+    "title": "Initial A",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 151,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-d",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-d.jpg",
+    "title": "Initial D",
+    "date": "1931",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 152,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-d-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/initial-d-1.jpg",
+    "title": "Initial D",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 153,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-o",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-o.jpg",
+    "title": "Initial O",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 154,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-s",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-s.jpg",
+    "title": "Initial S",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 155,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-s-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/initial-s-1.jpg",
+    "title": "Initial S",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 156,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-t",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-t.jpg",
+    "title": "Initial T",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 157,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-v",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/initial-v.jpg",
+    "title": "Initial V",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 158,
+    "url": "https://www.wikiart.org/en/m-c-escher/initial-v-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/initial-v-1.jpg",
+    "title": "Initial V",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 159,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204671",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204671.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 160,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204672",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204672.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 161,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204673",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204673.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 162,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204674",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204674.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 163,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204675",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204675.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 164,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204676",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204676.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 165,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204677",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204677.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 166,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204678",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204678.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 167,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204679",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204679.jpg!Large.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 168,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204680",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204680.jpg",
+    "title": "NOT DETECTED",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 169,
+    "url": "https://www.wikiart.org/en/m-c-escher/padlock",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/padlock.jpg",
+    "title": "Padlock",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 170,
+    "url": "https://www.wikiart.org/en/m-c-escher/palm-tree-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/palm-tree-1.jpg",
+    "title": "Palm Tree",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 171,
+    "url": "https://www.wikiart.org/en/m-c-escher/ravello-and-the-coast-of-amalfi",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/ravello-and-the-coast-of-amalfi.jpg!Large.jpg",
+    "title": "Ravello and the Coast of Amalfi",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 172,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/scholastica.jpg!Large.jpg",
+    "title": "Scholastica",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "illustration"
+  },
+  {
+    "id": 173,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-bad-dream",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/scholastica-bad-dream.jpg",
+    "title": "Scholastica (Bad Dream)",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 174,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-cover",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/scholastica-cover.jpg",
+    "title": "Scholastica (cover)",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 175,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-flying-witch",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/scholastica-flying-witch.jpg!Large.jpg",
+    "title": "Scholastica (Flying Witch)",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 176,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-the-bridge",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/scholastica-the-bridge.jpg",
+    "title": "Scholastica (The Bridge)",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 177,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-illustration",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/scholastica-illustration.jpg!Large.jpg",
+    "title": "Scholastica Illustration",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 178,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-illustration-1",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/scholastica-illustration-1.jpg!Large.jpg",
+    "title": "Scholastica Illustration",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 179,
+    "url": "https://www.wikiart.org/en/m-c-escher/second-title-page",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/second-title-page.jpg",
+    "title": "Second title-page",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 180,
+    "url": "https://www.wikiart.org/en/m-c-escher/tropea-calabria",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/tropea-calabria.jpg",
+    "title": "Tropea, Calabria",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 181,
+    "url": "https://www.wikiart.org/en/m-c-escher/view-of-atrani",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/view-of-atrani.jpg!Large.jpg",
+    "title": "View of Atrani",
+    "date": "1931",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 182,
+    "url": "https://www.wikiart.org/en/m-c-escher/vignette",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/vignette.jpg",
+    "title": "Vignette",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 183,
+    "url": "https://www.wikiart.org/en/m-c-escher/wateringcan",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/wateringcan.jpg",
+    "title": "Wateringcan",
+    "date": "1931",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 184,
+    "url": "https://www.wikiart.org/en/m-c-escher/weather-vane",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/weather-vane.jpg",
+    "title": "Weather Vane",
+    "date": "1931",
+    "style": "Surrealism",
+    "genre": "illustration"
+  },
+  {
+    "id": 185,
+    "url": "https://www.wikiart.org/en/m-c-escher/atrani-coast-of-amalfi-1",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/atrani-coast-of-amalfi-1.jpg",
+    "title": "Atrani, Coast of Amalfi",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 186,
+    "url": "https://www.wikiart.org/en/m-c-escher/italian-town",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/italian-town.jpg",
+    "title": "Italian Town",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 187,
+    "url": "https://www.wikiart.org/en/m-c-escher/lion-of-the-fountain-in-the-piazza-al-ravello",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/lion-of-the-fountain-in-the-piazza-al-ravello.jpg",
+    "title": "Lion of The Fountain in The Piazza al Ravello",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 188,
+    "url": "https://www.wikiart.org/en/m-c-escher/mumified-priests-in-gangi",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/mumified-priests-in-gangi.jpg",
+    "title": "Mumified Priests in Gangi",
+    "date": "1932",
+    "style": "Expressionism",
+    "genre": "still life"
+  },
+  {
+    "id": 189,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204681",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204681.jpg",
+    "title": "NOT DETECTED",
+    "date": "1932",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 190,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204682",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204682.jpg",
+    "title": "NOT DETECTED",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 191,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204683",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204683.jpg",
+    "title": "NOT DETECTED",
+    "date": "1932",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 192,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204684",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204684.jpg",
+    "title": "NOT DETECTED",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 193,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204685",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204685.jpg",
+    "title": "NOT DETECTED",
+    "date": "1932",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 194,
+    "url": "https://www.wikiart.org/en/m-c-escher/porta-maria-dell-ospidale",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/porta-maria-dell-ospidale.jpg",
+    "title": "Porta Maria Dell' Ospidale",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 195,
+    "url": "https://www.wikiart.org/en/m-c-escher/san-cosimo-ravello",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/san-cosimo-ravello.jpg",
+    "title": "San Cosimo, Ravello",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 196,
+    "url": "https://www.wikiart.org/en/m-c-escher/san-michele-dei-frisone-rome",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/san-michele-dei-frisone-rome.jpg",
+    "title": "San Michele Dei Frisone, Rome",
+    "date": "1932",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 197,
+    "url": "https://www.wikiart.org/en/m-c-escher/scholastica-illustration-2",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/scholastica-illustration-2.jpg!Large.jpg",
+    "title": "Scholastica Illustration",
+    "date": "1932",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 198,
+    "url": "https://www.wikiart.org/en/m-c-escher/temple-of-segeste-sicily",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/temple-of-segeste-sicily.jpg",
+    "title": "Temple of Segeste, Sicily",
+    "date": "1932",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 199,
+    "url": "https://www.wikiart.org/en/m-c-escher/the-hamlet-of-turello-southern-italy",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/the-hamlet-of-turello-southern-italy.jpg!Large.jpg",
+    "title": "The Hamlet of Turello, Southern Italy",
+    "date": "1932",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 200,
+    "url": "https://www.wikiart.org/en/m-c-escher/caltavuturo-in-the-madonie-mountains-sicily",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/caltavuturo-in-the-madonie-mountains-sicily.jpg",
+    "title": "Caltavuturo in The Madonie Mountains, Sicily",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 201,
+    "url": "https://www.wikiart.org/en/m-c-escher/cave-dwellings-near-sperlinga-sicily",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/cave-dwellings-near-sperlinga-sicily.jpg",
+    "title": "Cave Dwellings (near Sperlinga), Sicily",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 202,
+    "url": "https://www.wikiart.org/en/m-c-escher/cloister-of-monreale-sicily",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/cloister-of-monreale-sicily.jpg",
+    "title": "Cloister of Monreale, Sicily",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 203,
+    "url": "https://www.wikiart.org/en/m-c-escher/corte-corsica",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/corte-corsica.jpg!Large.jpg",
+    "title": "Corte, Corsica",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 204,
+    "url": "https://www.wikiart.org/en/m-c-escher/fireworks",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/fireworks.jpg!Large.jpg",
+    "title": "Fireworks",
+    "date": "1933",
+    "style": "Expressionism",
+    "genre": "genre painting"
+  },
+  {
+    "id": 205,
+    "url": "https://www.wikiart.org/en/m-c-escher/lava-flow-from-etna",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/lava-flow-from-etna.jpg",
+    "title": "Lava Flow from Etna",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 206,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204686",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204686.jpg",
+    "title": "NOT DETECTED",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 207,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204687",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204687.jpg",
+    "title": "Old Lava From Mount Etna Near Bronte, Sicily",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 208,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204688",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204688.jpg",
+    "title": "Sc\u00e1fani, sicilie",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 209,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204689",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204689.jpg",
+    "title": "Cesar\u00f2 and Mount Etna",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 210,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204690",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204690.jpg",
+    "title": "Design for Wrapping-paper: De Bijenkorf",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 211,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204691",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204691.jpg",
+    "title": "Design for the Gerzon store in Amsterdam",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 212,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204692",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204692.jpg",
+    "title": "Design for Wrapping-paper: Zingone",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 213,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204693",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204693.jpg",
+    "title": "Design for Wrapping-paper: Jemoli",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 214,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204694",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204694.jpg",
+    "title": "Design for Wrapping-paper: Jemoli",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 215,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204695",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204695.jpg",
+    "title": "Church at Corte, Corsica",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 216,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204696",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204696.jpg",
+    "title": "Views of the Citadel Calvi (Corsica)",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 217,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204697",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204697.jpg",
+    "title": "NOT DETECTED",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 218,
+    "url": "https://www.wikiart.org/en/m-c-escher/palm",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/palm.jpg!Large.jpg",
+    "title": "Palm",
+    "date": "1933",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 219,
+    "url": "https://www.wikiart.org/en/m-c-escher/pineta-of-calvi-corsica",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/pineta-of-calvi-corsica.jpg!Large.jpg",
+    "title": "Pineta of Calvi Corsica",
+    "date": "1933",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 220,
+    "url": "https://www.wikiart.org/en/m-c-escher/fluorescent-sea",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/fluorescent-sea.jpg!Large.jpg",
+    "title": "Fluorescent Sea",
+    "date": "1933",
+    "style": "Surrealism",
+    "genre": "marina"
+  },
+  {
+    "id": 221,
+    "url": "https://www.wikiart.org/en/m-c-escher/candle-mirror",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/candle-mirror.jpg!Large.jpg",
+    "title": "Candle Mirror",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "still life"
+  },
+  {
+    "id": 222,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/nocturnal-rome.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 223,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-1",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/nocturnal-rome-1.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 224,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-2",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/nocturnal-rome-2.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Expressionism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 225,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-3",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/nocturnal-rome-3.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 226,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-4",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/nocturnal-rome-4.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 227,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-5",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/nocturnal-rome-5.jpg",
+    "title": "Nocturnal Rome",
+    "date": "1934",
+    "style": "Expressionism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 228,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-basilica-of-constantine",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/nocturnal-rome-basilica-of-constantine.jpg",
+    "title": "Nocturnal Rome, Basilica of Constantine",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 229,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-castel-sant-angelo",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/nocturnal-rome-castel-sant-angelo.jpg",
+    "title": "Nocturnal Rome, Castel Sant' Angelo",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 230,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-colonade-of-st-peter-s",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/nocturnal-rome-colonade-of-st-peter-s.jpg",
+    "title": "Nocturnal Rome, Colonade of St. Peter's",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 231,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-colosseum",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/nocturnal-rome-colosseum.jpg",
+    "title": "Nocturnal Rome, Colosseum",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 232,
+    "url": "https://www.wikiart.org/en/m-c-escher/nocturnal-rome-santa-maria-del-popolo",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/nocturnal-rome-santa-maria-del-popolo.jpg",
+    "title": "Nocturnal Rome, Santa Maria del Popolo",
+    "date": "1934",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 233,
+    "url": "https://www.wikiart.org/en/m-c-escher/nonza-corsica",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/nonza-corsica.jpg",
+    "title": "Nonza, Corsica",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 234,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204698",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204698.jpg",
+    "title": "NOT DETECTED",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "marina"
+  },
+  {
+    "id": 235,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204699",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204699.jpg",
+    "title": "NOT DETECTED",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 236,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204700",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204700.jpg",
+    "title": "NOT DETECTED",
+    "date": "1934",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 237,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204701",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204701.jpg",
+    "title": "NOT DETECTED",
+    "date": "1934",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 238,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204702",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204702.jpg",
+    "title": "NOT DETECTED",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 239,
+    "url": "https://www.wikiart.org/en/m-c-escher/old-olive-tree-corsica",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/old-olive-tree-corsica.jpg",
+    "title": "Old Olive Tree, Corsica",
+    "date": "1934",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 240,
+    "url": "https://www.wikiart.org/en/m-c-escher/still-life-with-spherical-mirror",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/still-life-with-spherical-mirror.jpg!Large.jpg",
+    "title": "Still Life with Spherical Mirror",
+    "date": "1934",
+    "style": "Surrealism",
+    "genre": "still life"
+  },
+  {
+    "id": 241,
+    "url": "https://www.wikiart.org/en/m-c-escher/dream",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/dream.jpg!Large.jpg",
+    "title": "Dream",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 242,
+    "url": "https://www.wikiart.org/en/m-c-escher/grasshopper",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/grasshopper.jpg!Large.jpg",
+    "title": "Grasshopper",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 243,
+    "url": "https://www.wikiart.org/en/m-c-escher/hand-with-reflecting-sphere",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/hand-with-reflecting-sphere.jpg!Large.jpg",
+    "title": "Hand with Reflecting Sphere",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 244,
+    "url": "https://www.wikiart.org/en/m-c-escher/hell-copy-after-hiernonymus-bosch",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/hell-copy-after-hiernonymus-bosch.jpg!Large.jpg",
+    "title": "Hell, copy after Hiernonymus Bosch",
+    "date": "1935",
+    "style": "Northern Renaissance",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 245,
+    "url": "https://www.wikiart.org/en/m-c-escher/inside-st-peter-s-rome",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/inside-st-peter-s-rome.jpg!Large.jpg",
+    "title": "Inside St. Peter's, Rome",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "quadratura"
+  },
+  {
+    "id": 246,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204703",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204703.jpg",
+    "title": "NOT DETECTED",
+    "date": "1935",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 247,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204704",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204704.jpg",
+    "title": "NOT DETECTED",
+    "date": "1935",
+    "style": "Expressionism",
+    "genre": "portrait"
+  },
+  {
+    "id": 248,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204705",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204705.jpg",
+    "title": "NOT DETECTED",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "still life"
+  },
+  {
+    "id": 249,
+    "url": "https://www.wikiart.org/en/m-c-escher/portrait-of-g-a-escher",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/portrait-of-g-a-escher.jpg!Large.jpg",
+    "title": "Portrait of G.A. Escher",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 250,
+    "url": "https://www.wikiart.org/en/m-c-escher/scarabs",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/scarabs.jpg",
+    "title": "Scarabs",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 251,
+    "url": "https://www.wikiart.org/en/m-c-escher/sengela-malta",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/sengela-malta.jpg!Large.jpg",
+    "title": "Sengela, Malta",
+    "date": "1935",
+    "style": "Surrealism",
+    "genre": "marina"
+  },
+  {
+    "id": 252,
+    "url": "https://www.wikiart.org/en/m-c-escher/house-in-the-lava-near-nunziata",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/house-in-the-lava-near-nunziata.jpg",
+    "title": "House in The Lava near Nunziata",
+    "date": "1936",
+    "style": "Surrealism",
+    "genre": "landscape"
+  },
+  {
+    "id": 253,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204706",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204706.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Expressionism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 254,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204707",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204707.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 255,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204708",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204708.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 256,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204709",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204709.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 257,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204710",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204710.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Expressionism",
+    "genre": "landscape"
+  },
+  {
+    "id": 258,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204711",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204711.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 259,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204712",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204712.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 260,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204713",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204713.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Expressionism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 261,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204714",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204714.jpg",
+    "title": "NOT DETECTED",
+    "date": "1936",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 262,
+    "url": "https://www.wikiart.org/en/m-c-escher/prickly-flower",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/prickly-flower.jpg",
+    "title": "Prickly Flower",
+    "date": "1936",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 263,
+    "url": "https://www.wikiart.org/en/m-c-escher/snow",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/snow.jpg!Large.jpg",
+    "title": "Snow",
+    "date": "1936",
+    "style": "Realism",
+    "genre": "landscape"
+  },
+  {
+    "id": 264,
+    "url": "https://www.wikiart.org/en/m-c-escher/systematic-study",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/systematic-study.jpg!Large.jpg",
+    "title": "Systematic Study",
+    "date": "1936",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 265,
+    "url": "https://www.wikiart.org/en/m-c-escher/development-i",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/development-i.jpg!Large.jpg",
+    "title": "Development I",
+    "date": "1937",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 266,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204715",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204715.jpg",
+    "title": "NOT DETECTED",
+    "date": "1937",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 267,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204716",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204716.jpg",
+    "title": "NOT DETECTED",
+    "date": "1937",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 268,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204717",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204717.jpg",
+    "title": "NOT DETECTED",
+    "date": "1937",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 269,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204718",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204718.jpg",
+    "title": "The Heavy Heart",
+    "date": "1937",
+    "style": "Op Art",
+    "genre": "poster"
+  },
+  {
+    "id": 270,
+    "url": "https://www.wikiart.org/en/m-c-escher/porthole",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/porthole.jpg!Large.jpg",
+    "title": "Porthole",
+    "date": "1937",
+    "style": "Surrealism",
+    "genre": "marina"
+  },
+  {
+    "id": 271,
+    "url": "https://www.wikiart.org/en/m-c-escher/still-life-and-street",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/still-life-and-street.jpg!Large.jpg",
+    "title": "Still Life and Street",
+    "date": "1937",
+    "style": "Surrealism",
+    "genre": "still life"
+  },
+  {
+    "id": 272,
+    "url": "https://www.wikiart.org/en/m-c-escher/lizard",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/lizard.jpg",
+    "title": "Lizard",
+    "date": "1937",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 273,
+    "url": "https://www.wikiart.org/en/m-c-escher/bird-fish",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg",
+    "title": "Bird Fish",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 274,
+    "url": "https://www.wikiart.org/en/m-c-escher/cycle",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/cycle.jpg!Large.jpg",
+    "title": "Cycle",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 275,
+    "url": "https://www.wikiart.org/en/m-c-escher/day-and-night",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/day-and-night.jpg!Large.jpg",
+    "title": "Day and Night",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 276,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204719",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204719.jpg",
+    "title": "NOT DETECTED",
+    "date": "1938",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 277,
+    "url": "https://www.wikiart.org/en/m-c-escher/sky-and-water-i",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/sky-and-water-i.jpg!Large.jpg",
+    "title": "Sky and Water I",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 278,
+    "url": "https://www.wikiart.org/en/m-c-escher/sky-and-water-ii",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg",
+    "title": "Sky and Water II",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 279,
+    "url": "https://www.wikiart.org/en/m-c-escher/two-birds",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/two-birds.jpg!Large.jpg",
+    "title": "Two Birds",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 280,
+    "url": "https://www.wikiart.org/en/m-c-escher/dwarves",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/dwarves.jpg!Large.jpg",
+    "title": "Dwarves",
+    "date": "1938",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 281,
+    "url": "https://www.wikiart.org/en/m-c-escher/delft",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/delft.jpg!Large.jpg",
+    "title": "Delft",
+    "date": "1939",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 282,
+    "url": "https://www.wikiart.org/en/m-c-escher/development-ii",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/development-ii.jpg!Large.jpg",
+    "title": "Development II",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 283,
+    "url": "https://www.wikiart.org/en/m-c-escher/development-iii",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/development-iii.jpg!Large.jpg",
+    "title": "Development III",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 284,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/metamorphosis-ii.jpg!Large.jpg",
+    "title": "Metamorphosis II",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 285,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-1",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-1.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 1",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 286,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-2",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-2.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 2",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 287,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-3",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-3.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 3",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 288,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-4",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-4.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 4",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 289,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-5",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-5.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 5",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 290,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-6",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-6.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 6",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 291,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-ii-excerpt-7",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/metamorphosis-ii-excerpt-7.jpg!Large.jpg",
+    "title": "Metamorphosis II excerpt 7",
+    "date": "1939",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 292,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204720",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204720.jpg",
+    "title": "Delft: Nieuwe Kerk",
+    "date": "1939",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 293,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204721",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204721.jpg",
+    "title": "NOT DETECTED",
+    "date": "1939",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 294,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204722",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204722.jpg",
+    "title": "NOT DETECTED",
+    "date": "1939",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 295,
+    "url": "https://www.wikiart.org/en/m-c-escher/bookplate-dr-p-h-m-travaglino",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/bookplate-dr-p-h-m-travaglino.jpg",
+    "title": "Bookplate, Dr. P.H.M. Travaglino",
+    "date": "1940",
+    "style": "Realism",
+    "genre": "still life"
+  },
+  {
+    "id": 296,
+    "url": "https://www.wikiart.org/en/m-c-escher/fish-1",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/fish-1.jpg!Large.jpg",
+    "title": "Fish",
+    "date": "1940",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 297,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204723",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204723.jpg",
+    "title": "NOT DETECTED",
+    "date": "1940",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 298,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204724",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204724.jpg",
+    "title": "NOT DETECTED",
+    "date": "1941",
+    "style": "Expressionism",
+    "genre": "illustration"
+  },
+  {
+    "id": 299,
+    "url": "https://www.wikiart.org/en/m-c-escher/plane-filling-motif-with-reptiles",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/plane-filling-motif-with-reptiles.jpg",
+    "title": "Plane Filling Motif with Reptiles",
+    "date": "1941",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 300,
+    "url": "https://www.wikiart.org/en/m-c-escher/shells-and-starfish",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/shells-and-starfish.jpg!Large.jpg",
+    "title": "Shells and Starfish",
+    "date": "1941",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 301,
+    "url": "https://www.wikiart.org/en/m-c-escher/fish-2",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/fish-2.jpg!Large.jpg",
+    "title": "Fish",
+    "date": "1942",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 302,
+    "url": "https://www.wikiart.org/en/m-c-escher/lizard-1",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/lizard-1.jpg!Large.jpg",
+    "title": "Lizard",
+    "date": "1942",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 303,
+    "url": "https://www.wikiart.org/en/m-c-escher/verbum",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/verbum.jpg!Large.jpg",
+    "title": "Verbum",
+    "date": "1942",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 304,
+    "url": "https://www.wikiart.org/en/m-c-escher/symmetry-watercolor-55-fish",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/symmetry-watercolor-55-fish.jpg!Large.jpg",
+    "title": "Symmetry Watercolor 55 Fish",
+    "date": "1942",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 305,
+    "url": "https://www.wikiart.org/en/m-c-escher/ant",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/ant.jpg",
+    "title": "Ant",
+    "date": "1943",
+    "style": "Realism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 306,
+    "url": "https://www.wikiart.org/en/m-c-escher/blowball-i",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/blowball-i.jpg",
+    "title": "Blowball I",
+    "date": "1943",
+    "style": "Realism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 307,
+    "url": "https://www.wikiart.org/en/m-c-escher/blowball-ii",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/blowball-ii.jpg!Large.jpg",
+    "title": "Blowball II",
+    "date": "1943",
+    "style": "Op Art",
+    "genre": "flower painting"
+  },
+  {
+    "id": 308,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204725",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204725.jpg",
+    "title": "NOT DETECTED",
+    "date": "1943",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 309,
+    "url": "https://www.wikiart.org/en/m-c-escher/reptiles-colour",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/reptiles-colour.jpg!Large.jpg",
+    "title": "Reptiles Colour",
+    "date": "1943",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 310,
+    "url": "https://www.wikiart.org/en/m-c-escher/self-portrait-ii-1",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/self-portrait-ii-1.jpg!Large.jpg",
+    "title": "Self-Portrait II",
+    "date": "1943",
+    "style": "Realism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 311,
+    "url": "https://www.wikiart.org/en/m-c-escher/still-life",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/still-life.jpg!Large.jpg",
+    "title": "Still Life",
+    "date": "1943",
+    "style": "Surrealism",
+    "genre": "still life"
+  },
+  {
+    "id": 312,
+    "url": "https://www.wikiart.org/en/m-c-escher/reptiles",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/reptiles.jpg!Large.jpg",
+    "title": "Reptiles",
+    "date": "1943",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 313,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204726",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204726.jpg",
+    "title": "Logo for Chinese-Indonesian restaurant \"Insulinde\"",
+    "date": "1944",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 314,
+    "url": "https://www.wikiart.org/en/m-c-escher/encounter",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/encounter.jpg!Large.jpg",
+    "title": "Encounter",
+    "date": "1944",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 315,
+    "url": "https://www.wikiart.org/en/m-c-escher/doric-columns",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/doric-columns.jpg!Large.jpg",
+    "title": "Doric Columns",
+    "date": "1945",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 316,
+    "url": "https://www.wikiart.org/en/m-c-escher/temporary-academy-diploma",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/temporary-academy-diploma.jpg!Large.jpg",
+    "title": "Temporary\u00a0Academy Diploma",
+    "date": "1945",
+    "style": "Surrealism",
+    "genre": "poster"
+  },
+  {
+    "id": 317,
+    "url": "https://www.wikiart.org/en/m-c-escher/three-spheres-i-scheme",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/three-spheres-i-scheme(1).jpg!Large.jpg",
+    "title": "Three Spheres I",
+    "date": "1945",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 318,
+    "url": "https://www.wikiart.org/en/m-c-escher/balcony",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/balcony.jpg!Large.jpg",
+    "title": "Balcony",
+    "date": "1945",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 319,
+    "url": "https://www.wikiart.org/en/m-c-escher/eye",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/eye.jpg!Large.jpg",
+    "title": "Eye",
+    "date": "1946",
+    "style": "Surrealism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 320,
+    "url": "https://www.wikiart.org/en/m-c-escher/eye-colour",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/eye-colour.jpg!Large.jpg",
+    "title": "Eye Colour",
+    "date": "1946",
+    "style": "Surrealism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 321,
+    "url": "https://www.wikiart.org/en/m-c-escher/gallery",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/gallery.jpg",
+    "title": "Gallery",
+    "date": "1946",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 322,
+    "url": "https://www.wikiart.org/en/m-c-escher/horseman-1",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/horseman-1.jpg!Large.jpg",
+    "title": "Horseman",
+    "date": "1946",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 323,
+    "url": "https://www.wikiart.org/en/m-c-escher/horsemen",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/horsemen.jpg!Large.jpg",
+    "title": "Horsemen",
+    "date": "1946",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 324,
+    "url": "https://www.wikiart.org/en/m-c-escher/magic-mirror",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/magic-mirror.jpg!Large.jpg",
+    "title": "Magic Mirror",
+    "date": "1946",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 325,
+    "url": "https://www.wikiart.org/en/m-c-escher/mumified-frog",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/mumified-frog.jpg!Large.jpg",
+    "title": "Mumified Frog",
+    "date": "1946",
+    "style": "Realism",
+    "genre": "still life"
+  },
+  {
+    "id": 326,
+    "url": "https://www.wikiart.org/en/m-c-escher/new-year-s-greeting-card",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/new-year-s-greeting-card.jpg",
+    "title": "New Year's Greeting Card",
+    "date": "1946",
+    "style": "Expressionism",
+    "genre": "poster"
+  },
+  {
+    "id": 327,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204727",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204727.jpg",
+    "title": "Street in Scanno, Abruzzi",
+    "date": "1946",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 328,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204728",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204728.jpg",
+    "title": "NOT DETECTED",
+    "date": "1946",
+    "style": "Expressionism",
+    "genre": "design"
+  },
+  {
+    "id": 329,
+    "url": "https://www.wikiart.org/en/m-c-escher/three-spheres-ii",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/three-spheres-ii.jpg!Large.jpg",
+    "title": "Three Spheres II",
+    "date": "1946",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 330,
+    "url": "https://www.wikiart.org/en/m-c-escher/horseman",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/horseman.jpg!Large.jpg",
+    "title": "Horseman",
+    "date": "1946",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 331,
+    "url": "https://www.wikiart.org/en/m-c-escher/high-and-low",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/high-and-low.jpg!Large.jpg",
+    "title": "High and Low",
+    "date": "1947",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 332,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204731",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204731.jpg",
+    "title": "XIIme Congr\u00e9s Postal Universel: illustration",
+    "date": "1947",
+    "style": "Op Art",
+    "genre": "illustration"
+  },
+  {
+    "id": 333,
+    "url": "https://www.wikiart.org/en/m-c-escher/other-world",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/other-world.jpg!Large.jpg",
+    "title": "Other World",
+    "date": "1947",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 334,
+    "url": "https://www.wikiart.org/en/m-c-escher/synthesis",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/synthesis.jpg",
+    "title": "Synthesis",
+    "date": "1947",
+    "style": "Surrealism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 335,
+    "url": "https://www.wikiart.org/en/m-c-escher/drawing-hands",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/drawing-hands.jpg!Large.jpg",
+    "title": "Drawing Hands",
+    "date": "1948",
+    "style": "Surrealism",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 336,
+    "url": "https://www.wikiart.org/en/m-c-escher/stars",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/stars.jpg!Large.jpg",
+    "title": "Stars",
+    "date": "1948",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 337,
+    "url": "https://www.wikiart.org/en/m-c-escher/study-for-stars",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/study-for-stars.jpg!Large.jpg",
+    "title": "Study for Stars",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "sketch and study"
+  },
+  {
+    "id": 338,
+    "url": "https://www.wikiart.org/en/m-c-escher/sun-and-moon",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/sun-and-moon.jpg!Large.jpg",
+    "title": "Sun and Moon",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 339,
+    "url": "https://www.wikiart.org/en/m-c-escher/twelve-birds",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/twelve-birds.jpg!Large.jpg",
+    "title": "Twelve Birds",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 340,
+    "url": "https://www.wikiart.org/en/m-c-escher/fish-boat",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/fish-boat.jpg!Large.jpg",
+    "title": "Fish & Boat",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 341,
+    "url": "https://www.wikiart.org/en/m-c-escher/symmetry-watercolor-70-butterfly",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/symmetry-watercolor-70-butterfly.jpg!Large.jpg",
+    "title": "Symmetry Watercolor 70 Butterfly",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 342,
+    "url": "https://www.wikiart.org/en/m-c-escher/symmetry-drawing",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/symmetry-drawing.jpg!Large.jpg",
+    "title": "Symmetry Drawing",
+    "date": "1948",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 343,
+    "url": "https://www.wikiart.org/en/m-c-escher/double-planetoid",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/double-planetoid.jpg!Large.jpg",
+    "title": "Double Planetoid",
+    "date": "1949",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 344,
+    "url": "https://www.wikiart.org/en/m-c-escher/double-planetoid-colour",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/double-planetoid-colour.jpg!Large.jpg",
+    "title": "Double Planetoid Colour",
+    "date": "1949",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 345,
+    "url": "https://www.wikiart.org/en/m-c-escher/fish-and-frogs",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/fish-and-frogs.jpg",
+    "title": "Fish and Frogs",
+    "date": "1949",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 346,
+    "url": "https://www.wikiart.org/en/m-c-escher/new-year-s-greeting-card-1",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/new-year-s-greeting-card-1.jpg",
+    "title": "New Year's Greeting Card",
+    "date": "1949",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 347,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204734",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204734.jpg",
+    "title": "Horses and Birds",
+    "date": "1949",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 348,
+    "url": "https://www.wikiart.org/en/m-c-escher/plane-filling-motif-with-birds",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/plane-filling-motif-with-birds.jpg",
+    "title": "Plane Filling Motif with Birds",
+    "date": "1949",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 349,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-with-birds",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/regular-division-of-the-plane-with-birds.jpg",
+    "title": "Regular Division of The Plane with Birds",
+    "date": "1949",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 350,
+    "url": "https://www.wikiart.org/en/m-c-escher/butterflies",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/butterflies.jpg!Large.jpg",
+    "title": "Butterflies",
+    "date": "1950",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 351,
+    "url": "https://www.wikiart.org/en/m-c-escher/circle-limit-with-butterflies",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/circle-limit-with-butterflies.jpg!Large.jpg",
+    "title": "Circle Limit with Butterflies",
+    "date": "1950",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 352,
+    "url": "https://www.wikiart.org/en/m-c-escher/contrast-order-and-chaos",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/contrast-order-and-chaos.jpg!Large.jpg",
+    "title": "Contrast (Order and Chaos)",
+    "date": "1950",
+    "style": "Surrealism",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 353,
+    "url": "https://www.wikiart.org/en/m-c-escher/les-eyzies-france",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/les-eyzies-france.jpg!Large.jpg",
+    "title": "Les Eyzies France",
+    "date": "1950",
+    "style": "Realism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 354,
+    "url": "https://www.wikiart.org/en/m-c-escher/rippled-surface-colour",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/rippled-surface-colour.jpg",
+    "title": "Rippled Surface Colour",
+    "date": "1950",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 355,
+    "url": "https://www.wikiart.org/en/m-c-escher/spherical-self-portrait",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/spherical-self-portrait.jpg",
+    "title": "Spherical Self Portrait",
+    "date": "1950",
+    "style": "Surrealism",
+    "genre": "self-portrait"
+  },
+  {
+    "id": 356,
+    "url": "https://www.wikiart.org/en/m-c-escher/tapestry",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/tapestry.jpg!Large.jpg",
+    "title": "Tapestry",
+    "date": "1950",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 357,
+    "url": "https://www.wikiart.org/en/m-c-escher/rippled-surface",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/rippled-surface.jpg!Large.jpg",
+    "title": "Rippled Surface",
+    "date": "1950",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 358,
+    "url": "https://www.wikiart.org/en/m-c-escher/curl-up",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/curl-up.jpg!Large.jpg",
+    "title": "Curl Up",
+    "date": "1951",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 359,
+    "url": "https://www.wikiart.org/en/m-c-escher/house-of-stairs",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/house-of-stairs.jpg!Large.jpg",
+    "title": "House of Stairs",
+    "date": "1951",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 360,
+    "url": "https://www.wikiart.org/en/m-c-escher/mosaic-i",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/mosaic-i.jpg!Large.jpg",
+    "title": "Mosaic I",
+    "date": "1951",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 361,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204735",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204735.jpg",
+    "title": "Unicorns",
+    "date": "1951",
+    "style": "Op Art",
+    "genre": "poster"
+  },
+  {
+    "id": 362,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204736",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204736.jpg",
+    "title": "Plane-filling Motif with Fish and Bird",
+    "date": "1951",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 363,
+    "url": "https://www.wikiart.org/en/m-c-escher/predestination",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/predestination.jpg!Large.jpg",
+    "title": "Predestination",
+    "date": "1951",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 364,
+    "url": "https://www.wikiart.org/en/m-c-escher/prelim-drawing-ceiling-decoration-for-philips_",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/prelim-drawing-ceiling-decoration-for-philips_.jpg!Large.jpg",
+    "title": "Prelim Drawing Ceiling Decoration for Philips_",
+    "date": "1951",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 365,
+    "url": "https://www.wikiart.org/en/m-c-escher/gravitation",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/gravitation.jpg!Large.jpg",
+    "title": "Gravitation",
+    "date": "1952",
+    "style": "Surrealism",
+    "genre": "allegorical painting"
+  },
+  {
+    "id": 366,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204738",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204738.jpg",
+    "title": "4 Graphic Artists",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 367,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204739",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204739.jpg",
+    "title": "The four elements - Earth",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 368,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204740",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204740.jpg",
+    "title": "The four elements - Air",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 369,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204741",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204741.jpg",
+    "title": "The four elements - Fire",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 370,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204742",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204742.jpg",
+    "title": "The four elements - Water",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 371,
+    "url": "https://www.wikiart.org/en/m-c-escher/puddle",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/puddle.jpg!Large.jpg",
+    "title": "Puddle",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 372,
+    "url": "https://www.wikiart.org/en/m-c-escher/two-intersecting-planes",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/two-intersecting-planes.jpg!Large.jpg",
+    "title": "Two Intersecting Planes",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 373,
+    "url": "https://www.wikiart.org/en/m-c-escher/twon-intersecting-planes-colour",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/twon-intersecting-planes-colour.jpg",
+    "title": "Twon Intersecting Planes Colour",
+    "date": "1952",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 374,
+    "url": "https://www.wikiart.org/en/m-c-escher/dragon",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/dragon.jpg!Large.jpg",
+    "title": "Dragon",
+    "date": "1952",
+    "style": "Surrealism",
+    "genre": "mythological painting"
+  },
+  {
+    "id": 375,
+    "url": "https://www.wikiart.org/en/m-c-escher/concentric-rinds-colour",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/concentric-rinds-colour.jpg",
+    "title": "Concentric Rinds Colour",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 376,
+    "url": "https://www.wikiart.org/en/m-c-escher/cubic-space-division",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/cubic-space-division.jpg!Large.jpg",
+    "title": "Cubic space division",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 377,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204743",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204743.jpg",
+    "title": "Trees and Animals",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 378,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204744",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204744.jpg",
+    "title": "A donkey",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "design"
+  },
+  {
+    "id": 379,
+    "url": "https://www.wikiart.org/en/m-c-escher/spirals",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/spirals.jpg!Large.jpg",
+    "title": "Spirals",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 380,
+    "url": "https://www.wikiart.org/en/m-c-escher/concentric-rinds",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/concentric-rinds.jpg!Large.jpg",
+    "title": "Concentric Rinds",
+    "date": "1953",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 381,
+    "url": "https://www.wikiart.org/en/m-c-escher/relativity-lattice",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/relativity-lattice.jpg!Large.jpg",
+    "title": "Relativity lattice",
+    "date": "1953",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 382,
+    "url": "https://www.wikiart.org/en/m-c-escher/bookplate-a-r-a-wertheim",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/bookplate-a-r-a-wertheim.jpg",
+    "title": "Bookplate A.R.A. Wertheim",
+    "date": "1954",
+    "style": "Expressionism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 383,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204746",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204746.jpg",
+    "title": "7 Black and 6 White Fishes",
+    "date": "1954",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 384,
+    "url": "https://www.wikiart.org/en/m-c-escher/tetrahedral-planetoid",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/tetrahedral-planetoid.jpg!Large.jpg",
+    "title": "Tetrahedral Planetoid",
+    "date": "1954",
+    "style": "Surrealism",
+    "genre": "figurative"
+  },
+  {
+    "id": 385,
+    "url": "https://www.wikiart.org/en/m-c-escher/three-intersecting-planes",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/three-intersecting-planes.jpg!Large.jpg",
+    "title": "Three Intersecting Planes",
+    "date": "1954",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 386,
+    "url": "https://www.wikiart.org/en/m-c-escher/three-intersecting-planes-colour",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/three-intersecting-planes-colour.jpg",
+    "title": "Three Intersecting Planes Colour",
+    "date": "1954",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 387,
+    "url": "https://www.wikiart.org/en/m-c-escher/christmas-card",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/christmas-card.jpg!Large.jpg",
+    "title": "Christmas Card",
+    "date": "1955",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 388,
+    "url": "https://www.wikiart.org/en/m-c-escher/convex-and-concave",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/convex-and-concave.jpg!Large.jpg",
+    "title": "Convex and Concave",
+    "date": "1955",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 389,
+    "url": "https://www.wikiart.org/en/m-c-escher/depth",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/depth.jpg!Large.jpg",
+    "title": "Depth",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 390,
+    "url": "https://www.wikiart.org/en/m-c-escher/liberation",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/liberation.jpg!Large.jpg",
+    "title": "Liberation",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 391,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204747",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204747.jpg!Large.jpg",
+    "title": "Order and Chaos II (Compass Card)",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 392,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204748",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204748.jpg",
+    "title": "Hexagonal Fish Vignette",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 393,
+    "url": "https://www.wikiart.org/en/m-c-escher/rind",
+    "img": "https://uploads6.wikiart.org/00187/images/m-c-escher/m-c-escher-rind-1955-760x1113.jpg!Large.jpg",
+    "title": "Rind",
+    "date": "1955",
+    "style": "Surrealism",
+    "genre": "portrait"
+  },
+  {
+    "id": 394,
+    "url": "https://www.wikiart.org/en/m-c-escher/three-worlds",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/three-worlds.jpg!Large.jpg",
+    "title": "Three Worlds",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 395,
+    "url": "https://www.wikiart.org/en/m-c-escher/symmetry-watercolor-94-fish",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/symmetry-watercolor-94-fish.jpg!Large.jpg",
+    "title": "Symmetry Watercolor 94 Fish",
+    "date": "1955",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 396,
+    "url": "https://www.wikiart.org/en/m-c-escher/bond-of-union",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/bond-of-union.jpg!Large.jpg",
+    "title": "Bond of Union",
+    "date": "1956",
+    "style": "Surrealism",
+    "genre": "symbolic painting"
+  },
+  {
+    "id": 397,
+    "url": "https://www.wikiart.org/en/m-c-escher/division",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/division.jpg!Large.jpg",
+    "title": "Division",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 398,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204749",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204749.jpg",
+    "title": "Postal Greeting Card",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 399,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204750",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204750.jpg!Large.jpg",
+    "title": "Smaller And Smaller",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 400,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204751",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204751.jpg",
+    "title": "Circular Fish",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 401,
+    "url": "https://www.wikiart.org/en/m-c-escher/print-gallery",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/print-gallery.jpg!Large.jpg",
+    "title": "Print Gallery",
+    "date": "1956",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 402,
+    "url": "https://www.wikiart.org/en/m-c-escher/smaller-smaller",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/smaller-smaller.jpg!Large.jpg",
+    "title": "Smaller & Smaller",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 403,
+    "url": "https://www.wikiart.org/en/m-c-escher/smaller-smaller-colour",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/smaller-smaller-colour.jpg!Large.jpg",
+    "title": "Smaller & Smaller Colour",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 404,
+    "url": "https://www.wikiart.org/en/m-c-escher/swans",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/swans.jpg!Large.jpg",
+    "title": "Swans",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 405,
+    "url": "https://www.wikiart.org/en/m-c-escher/lizards",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/lizards.jpg!Large.jpg",
+    "title": "Lizards",
+    "date": "1956",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 406,
+    "url": "https://www.wikiart.org/en/m-c-escher/cube-with-magic-ribbons",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/cube-with-magic-ribbons.jpg!Large.jpg",
+    "title": "Cube with Magic Ribbons",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 407,
+    "url": "https://www.wikiart.org/en/m-c-escher/mosaic-ii",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/mosaic-ii.jpg!Large.jpg",
+    "title": "Mosaic II",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 408,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204752",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204752.jpg!Large.jpg",
+    "title": "Regular Division of the Plane II",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 409,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-i",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/regular-division-of-the-plane-i.jpg!Large.jpg",
+    "title": "Regular Division of The Plane I",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 410,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-iii",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/regular-division-of-the-plane-iii.jpg!Large.jpg",
+    "title": "Regular Division of The Plane III",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 411,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-iv",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/regular-division-of-the-plane-iv.jpg!Large.jpg",
+    "title": "Regular Division of The Plane IV",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 412,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-kakemono",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/regular-division-of-the-plane-kakemono.jpg!Large.jpg",
+    "title": "Regular Division of the Plane kakemono",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 413,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-v",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/regular-division-of-the-plane-v.jpg!Large.jpg",
+    "title": "Regular Division of The Plane V",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 414,
+    "url": "https://www.wikiart.org/en/m-c-escher/regular-division-of-the-plane-vi",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/regular-division-of-the-plane-vi.jpg!Large.jpg",
+    "title": "Regular Division of The Plane VI",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 415,
+    "url": "https://www.wikiart.org/en/m-c-escher/whirlpools",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/whirlpools.jpg!Large.jpg",
+    "title": "Whirlpools",
+    "date": "1957",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 416,
+    "url": "https://www.wikiart.org/en/m-c-escher/belvedere",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/belvedere.jpg!Large.jpg",
+    "title": "Belvedere",
+    "date": "1958",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 417,
+    "url": "https://www.wikiart.org/en/m-c-escher/circle-limit-i",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/circle-limit-i.jpg!Large.jpg",
+    "title": "Circle Limit I",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 418,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204754",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204754.jpg!Large.jpg",
+    "title": "Path of Life I",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 419,
+    "url": "https://www.wikiart.org/en/m-c-escher/path-of-life-ii",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/path-of-life-ii.jpg!Large.jpg",
+    "title": "Path of Life II",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 420,
+    "url": "https://www.wikiart.org/en/m-c-escher/path-of-life-ii-colour",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/path-of-life-ii-colour.jpg",
+    "title": "Path of Life II Colour",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 421,
+    "url": "https://www.wikiart.org/en/m-c-escher/polyhedron-with-flowers",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/polyhedron-with-flowers.jpg!Large.jpg",
+    "title": "Polyhedron with Flowers",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "sculpture"
+  },
+  {
+    "id": 422,
+    "url": "https://www.wikiart.org/en/m-c-escher/sphere-spirals",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/sphere-spirals.jpg!Large.jpg",
+    "title": "Sphere Spirals",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 423,
+    "url": "https://www.wikiart.org/en/m-c-escher/sphere-surface-with-fishes",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/sphere-surface-with-fishes.jpg!Large.jpg",
+    "title": "Sphere Surface with Fishes",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 424,
+    "url": "https://www.wikiart.org/en/m-c-escher/sphere-surface-with-fishes-colour",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/sphere-surface-with-fishes-colour.jpg!Large.jpg",
+    "title": "Sphere Surface with Fishes Colour",
+    "date": "1958",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 425,
+    "url": "https://www.wikiart.org/en/m-c-escher/circle-limit-iii",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/circle-limit-iii.jpg!Large.jpg",
+    "title": "Circle Limit III",
+    "date": "; Netherlands",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 426,
+    "url": "https://www.wikiart.org/en/m-c-escher/fishes-and-scales",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/fishes-and-scales.jpg!Large.jpg",
+    "title": "Fishes and Scales",
+    "date": "1959",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 427,
+    "url": "https://www.wikiart.org/en/m-c-escher/flat-worms",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/flat-worms.jpg!Large.jpg",
+    "title": "Flat Worms",
+    "date": "1959",
+    "style": "Op Art",
+    "genre": "animal painting"
+  },
+  {
+    "id": 428,
+    "url": "https://www.wikiart.org/en/m-c-escher/pegasus-no-105-1959",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/pegasus-no-105-1959.jpg!Large.jpg",
+    "title": "Pegasus (No. 105)",
+    "date": "1959",
+    "style": "Art Deco",
+    "genre": "illustration"
+  },
+  {
+    "id": 429,
+    "url": "https://www.wikiart.org/en/m-c-escher/ascending-descending",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/ascending-descending.jpg!Large.jpg",
+    "title": "Ascending & Descending",
+    "date": "1960",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 430,
+    "url": "https://www.wikiart.org/en/m-c-escher/circle-limit-iv",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/circle-limit-iv.jpg!Large.jpg",
+    "title": "Circle Limit IV",
+    "date": "1960",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 431,
+    "url": "https://www.wikiart.org/en/m-c-escher/flower-1",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/flower-1.jpg!Large.jpg",
+    "title": "Flower",
+    "date": "1961",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 432,
+    "url": "https://www.wikiart.org/en/m-c-escher/four-regular-solids",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/four-regular-solids.jpg!Large.jpg",
+    "title": "Four Regular Solids",
+    "date": "1961",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 433,
+    "url": "https://www.wikiart.org/en/m-c-escher/merry-christmas-happy-new-year",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/merry-christmas-happy-new-year.jpg",
+    "title": "Merry Christmas & Happy New Year",
+    "date": "1961",
+    "style": "Expressionism",
+    "genre": "flower painting"
+  },
+  {
+    "id": 434,
+    "url": "https://www.wikiart.org/en/m-c-escher/moebius-strip-i",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/moebius-strip-i.jpg!Large.jpg",
+    "title": "Moebius Strip I",
+    "date": "1961",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 435,
+    "url": "https://www.wikiart.org/en/m-c-escher/waterfall",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/waterfall.jpg!Large.jpg",
+    "title": "Waterfall",
+    "date": "1961",
+    "style": "Surrealism",
+    "genre": "capriccio"
+  },
+  {
+    "id": 436,
+    "url": "https://www.wikiart.org/en/m-c-escher/woods-near-menton",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/woods-near-menton.jpg",
+    "title": "Woods near Menton",
+    "date": "1962",
+    "style": "Op Art",
+    "genre": "landscape"
+  },
+  {
+    "id": 437,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204755",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204755.jpg",
+    "title": "Fishes in Waves",
+    "date": "1963",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 438,
+    "url": "https://www.wikiart.org/en/m-c-escher/verblife-tin",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/verblife-tin.jpg!Large.jpg",
+    "title": "Verblife Tin",
+    "date": "1963",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 439,
+    "url": "https://www.wikiart.org/en/m-c-escher/moebius-strip-ii",
+    "img": "https://uploads7.wikiart.org/images/m-c-escher/moebius-strip-ii.jpg!Large.jpg",
+    "title": "Moebius Strip II",
+    "date": "1964",
+    "style": "Surrealism",
+    "genre": "animal painting"
+  },
+  {
+    "id": 440,
+    "url": "https://www.wikiart.org/en/m-c-escher/square-limit",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/square-limit.jpg!Large.jpg",
+    "title": "Square Limit",
+    "date": "1964",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 441,
+    "url": "https://www.wikiart.org/en/m-c-escher/square-limit-colour",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/square-limit-colour.jpg!Large.jpg",
+    "title": "Square Limit Colour",
+    "date": "1964",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 442,
+    "url": "https://www.wikiart.org/en/m-c-escher/knots-colour",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/knots-colour.jpg!Large.jpg",
+    "title": "Knots Colour",
+    "date": "1965",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 443,
+    "url": "https://www.wikiart.org/en/m-c-escher/knot",
+    "img": "https://uploads3.wikiart.org/images/m-c-escher/knot.jpg",
+    "title": "Knot",
+    "date": "1966",
+    "style": "Op Art",
+    "genre": "figurative"
+  },
+  {
+    "id": 444,
+    "url": "https://www.wikiart.org/en/m-c-escher/path-of-life-iii",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/path-of-life-iii.jpg",
+    "title": "Path of Life III",
+    "date": "1966",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 445,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-1968",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/metamorphosis-iii-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 446,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-1968-1",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/metamorphosis-iii-1968-1.jpg!Large.jpg",
+    "title": "Metamorphosis III",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 447,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-1968-2",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/metamorphosis-iii-1968-2.jpg!Large.jpg",
+    "title": "Metamorphosis III",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 448,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-1-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-1-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 1",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 449,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-2-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-2-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 2",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 450,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-3-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-3-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 3",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 451,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-4-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-4-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 4",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 452,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-5-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-5-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 5",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 453,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-6-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-6-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 6",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 454,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-7-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-7-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 7",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 455,
+    "url": "https://www.wikiart.org/en/m-c-escher/metamorphosis-iii-excerpt-8-1968",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/metamorphosis-iii-excerpt-8-1968.jpg!Large.jpg",
+    "title": "Metamorphosis III excerpt 8",
+    "date": "1968",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 456,
+    "url": "https://www.wikiart.org/en/m-c-escher/snakes",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/snakes.jpg!Large.jpg",
+    "title": "Snakes",
+    "date": "1969",
+    "style": "Op Art",
+    "genre": "animal painting"
+  },
+  {
+    "id": 457,
+    "url": "https://www.wikiart.org/en/m-c-escher/birds-in-space",
+    "img": "https://uploads5.wikiart.org/images/m-c-escher/birds-in-space.jpg!Large.jpg",
+    "title": "Birds in Space",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 458,
+    "url": "https://www.wikiart.org/en/m-c-escher/crab-canon",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/crab-canon.jpg!Large.jpg",
+    "title": "Crab Canon",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 459,
+    "url": "https://www.wikiart.org/en/m-c-escher/dogs",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/dogs.jpg!Large.jpg",
+    "title": "Dogs",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 460,
+    "url": "https://www.wikiart.org/en/m-c-escher/fish",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/fish.jpg!Large.jpg",
+    "title": "Fish",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 461,
+    "url": "https://www.wikiart.org/en/m-c-escher/flying-fish",
+    "img": "https://uploads2.wikiart.org/images/m-c-escher/flying-fish.jpg!Large.jpg",
+    "title": "Flying Fish",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 462,
+    "url": "https://www.wikiart.org/en/m-c-escher/gecko",
+    "img": "https://uploads4.wikiart.org/images/m-c-escher/gecko.jpg",
+    "title": "Gecko",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 463,
+    "url": "https://www.wikiart.org/en/m-c-escher/interlaced-hexagon",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/interlaced-hexagon.jpg!Large.jpg",
+    "title": "Interlaced Hexagon",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 464,
+    "url": "https://www.wikiart.org/en/m-c-escher/lizard-2",
+    "img": "https://uploads8.wikiart.org/images/m-c-escher/lizard-2.jpg!Large.jpg",
+    "title": "Lizard 2",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  },
+  {
+    "id": 465,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204633",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204633.jpg",
+    "title": "NOT DETECTED",
+    "date": "?",
+    "style": "Expressionism",
+    "genre": "design"
+  },
+  {
+    "id": 466,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204634",
+    "img": "https://uploads0.wikiart.org/images/m-c-escher/not_detected_204634.jpg",
+    "title": "NOT DETECTED",
+    "date": "?",
+    "style": "Surrealism",
+    "genre": "cityscape"
+  },
+  {
+    "id": 467,
+    "url": "https://www.wikiart.org/en/m-c-escher/not_detected_204641",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/not_detected_204641.jpg!Large.jpg",
+    "title": "NOT DETECTED",
+    "date": "?",
+    "style": "Surrealism",
+    "genre": "tessellation"
+  },
+  {
+    "id": 468,
+    "url": "https://www.wikiart.org/en/m-c-escher/scheme",
+    "img": "https://uploads6.wikiart.org/images/m-c-escher/scheme.jpg!Large.jpg",
+    "title": "Scheme",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "sketch and study"
+  },
+  {
+    "id": 469,
+    "url": "https://www.wikiart.org/en/m-c-escher/symmetry-watercolor-106-bird",
+    "img": "https://uploads1.wikiart.org/images/m-c-escher/symmetry-watercolor-106-bird.jpg!Large.jpg",
+    "title": "Symmetry Watercolor 106 Bird",
+    "date": "?",
+    "style": "Op Art",
+    "genre": "tessellation"
+  }
+]
