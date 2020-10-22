@@ -17,13 +17,16 @@
 `Valentina D'Efilippo` 和 `Lucia Kocincova` 的 `MeToomentum` 项目里的 `Trending seeds` 可视化作品。  
 原作品链接：http://metoomentum.com/index.html    
 复现文章记述：[MeToomentum 可视化作品复现系列文章(一) - 古柳 - 牛衣古柳公众号](https://mp.weixin.qq.com/s/Oq2Au6ygeDQWTiJ8mXywdA)    
-复现文章将继续输出，代码整理后也会开源，敬请期待。  
+该系列复现文章将继续更新，代码整理后也会开源，敬请期待。  
 ![](./01.5-metoomentum/复现效果.jpg)
 
 ### EP02: Wendy Shijia 的「Escher's Gallery」可视化作品
 原作是 `Wendy Shijia` 用 `Tableau` 所作，`古柳` 用 `D3.js` 进行复现。注：点击有颜色的区域会显示每部作品详细数据；点击其他区域会隐藏显示。    
 原作品链接：[Tableau: Wendy Shijia/Escher's Gallery](https://public.tableau.com/profile/wendy.shijia#!/vizhome/MCEschersGallery_15982882031370/Gallery)    
 相关推特：[@ShijiaWendy](https://twitter.com/ShijiaWendy/status/1297950623141203968)   
-复现文章记述：将会马上写完更新到公众号`「牛衣古柳」`，敬请期待。   
+复现文章记述：写完将会马上更新到公众号`「牛衣古柳」`，敬请期待。   
 效果演示：https://desertsx.github.io/dataviz-in-action/02-eschers-gallery/index.html
 ![](./02-eschers-gallery/复现效果.jpg)
+
+开源代码：https://github.com/DesertsX/dataviz-in-action 
+效果演示(PC端浏览器最大窗口显示最佳)：https://desertsx.github.io/dataviz-in-action/02-eschers-gallery/index.html 

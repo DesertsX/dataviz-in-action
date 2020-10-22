@@ -54,7 +54,7 @@ async function drawChart() {
     else if (date < 1958) dateGroup[4].push(d);
     else if (date < 1973) dateGroup[5].push(d);
   });
-  console.log(dateGroup);
+  // console.log(dateGroup);
 
   const colorScale = {
     "Optical art": "#ffc533",
@@ -107,125 +107,132 @@ async function drawChart() {
     .attr("class", "main-chart")
     .attr("transform", `scale(1.12)`);
 
-  const artworks = artworkGroup
-    .selectAll("use.artwork")
-    .data(data)
-    .join("use")
-    .attr("class", "artwork")
-    .attr("xlink:href", (d, i) =>
-      getXY(i)[0] % 3 === 0
-        ? "#unit-0"
-        : getXY(i)[0] % 3 === 1
-        ? "#unit-1"
-        : "#unit-2"
-    )
-    .attr("fill", (d) => colorScale[d.style2])
-    .attr("stroke", "white")
-    .attr("data-index", (d) => d.style2)
-    .attr("id", (d, i) => i)
-    // 40 cubeWidth=40  x -150 // y 70+
-    // 36 cubeWidth=36  x -80 // y 110+
-    .attr("x", (d, i) => getXY(i)[1] * 1.5 * cubeWidth - 80)
-    .attr(
-      "y",
-      (d, i) =>
-        110 +
-        getXY(i)[2] * 1.5 * cubeWidth +
-        (getXY(i)[1] % 2 === 0 ? 0 : 0.75 * cubeWidth)
-    );
+  function drawArtwork() {
+    const artworks = artworkGroup
+      .selectAll("use.artwork")
+      .data(data)
+      .join("use")
+      .attr("class", "artwork")
+      .attr("xlink:href", (d, i) =>
+        getXY(i)[0] % 3 === 0
+          ? "#unit-0"
+          : getXY(i)[0] % 3 === 1
+          ? "#unit-1"
+          : "#unit-2"
+      )
+      .attr("fill", (d) => colorScale[d.style2])
+      .attr("stroke", "white")
+      .attr("data-index", (d) => d.style2)
+      .attr("id", (d, i) => i)
+      // 40 cubeWidth=40  x -150 // y 70+
+      // 36 cubeWidth=36  x -80 // y 110+
+      .attr("x", (d, i) => getXY(i)[1] * 1.5 * cubeWidth - 80)
+      .attr(
+        "y",
+        (d, i) =>
+          110 +
+          getXY(i)[2] * 1.5 * cubeWidth +
+          (getXY(i)[1] % 2 === 0 ? 0 : 0.75 * cubeWidth)
+      );
+  }
+  drawArtwork();
 
-  // bottom odd 9 / even 10
-  const rowCount = [
-    5,
-    8,
-    8,
-    8,
-    5,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    2,
-    8,
-    8,
-    5,
-    8,
-    8,
-    8,
-    3,
-    8,
-    6,
-    5,
-  ];
-  // console.log(rowCount.length); // 23
-  const blank = [];
-  d3.range(1, 24).map((d) => {
-    // top odd 0/-1 / even 0
-    d % 2 === 0
-      ? blank.push({ x: d, y: 0 })
-      : blank.push({ x: d, y: 0 }, { x: d, y: -1 });
+  function drawBlankArtwork() {
     // bottom odd 9 / even 10
-    if (d % 2 === 0) {
-      for (let i = rowCount[d - 1] + 1; i <= 10; i++)
-        blank.push({ x: d, y: i });
-    } else {
-      for (let i = rowCount[d - 1] + 1; i <= 9; i++) blank.push({ x: d, y: i });
-    }
-  });
-  // console.log(blank);
+    const rawMax = [
+      5,
+      8,
+      8,
+      8,
+      5,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      2,
+      8,
+      8,
+      5,
+      8,
+      8,
+      8,
+      3,
+      8,
+      6,
+      5,
+    ];
+    // console.log(rawMax.length); // 23
+    const blank = [];
+    d3.range(1, 24).map((d) => {
+      // top odd 0/-1 / even 0
+      d % 2 === 0
+        ? blank.push({ x: d, y: 0 })
+        : blank.push({ x: d, y: 0 }, { x: d, y: -1 });
+      // bottom odd 9 / even 10
+      if (d % 2 === 0) {
+        for (let i = rawMax[d - 1] + 1; i <= 10; i++)
+          blank.push({ x: d, y: i });
+      } else {
+        for (let i = rawMax[d - 1] + 1; i <= 9; i++) blank.push({ x: d, y: i });
+      }
+    });
+    // console.log(blank);
 
-  let blankData = [];
-  blank.map((d) => {
-    // repeat 3 times
-    d3.range(3).map(() => blankData.push({ x: d.x, y: d.y }));
-  });
-  const specialBlank = [
-    { x: 1, y: 5, unit: 2 },
-    { x: 5, y: 5, unit: 1 },
-    { x: 5, y: 5, unit: 2 },
-    { x: 16, y: 5, unit: 2 },
-    { x: 22, y: 6, unit: 2 },
-    { x: 23, y: 5, unit: 1 },
-    { x: 23, y: 5, unit: 2 },
-  ];
-  blankData = [...blankData, ...specialBlank];
+    let blankData = [];
+    blank.map((d) => {
+      // repeat 3 times
+      d3.range(3).map(() => blankData.push({ x: d.x, y: d.y }));
+    });
+    const specialBlank = [
+      { x: 1, y: 5, unit: 2 },
+      { x: 5, y: 5, unit: 1 },
+      { x: 5, y: 5, unit: 2 },
+      { x: 16, y: 5, unit: 2 },
+      { x: 22, y: 6, unit: 2 },
+      { x: 23, y: 5, unit: 1 },
+      { x: 23, y: 5, unit: 2 },
+    ];
+    blankData = [...blankData, ...specialBlank];
 
-  const blankArtworks = artworkGroup
-    .selectAll("use.blank")
-    .data(blankData)
-    .join("use")
-    .attr("class", "blank")
-    .attr("xlink:href", (d, i) =>
-      d.unit
-        ? `#unit-${d.unit}`
-        : i % 3 === 0
-        ? "#unit-0"
-        : i % 3 === 1
-        ? "#unit-1"
-        : "#unit-2"
-    )
-    .attr("fill", "#f2f2e8")
-    .attr("stroke", "white")
-    .attr("stroke-width", 1)
-    .attr("x", (d) => d.x * 1.5 * cubeWidth - 80)
-    .attr(
-      "y",
-      (d) =>
-        110 + d.y * 1.5 * cubeWidth + (d.x % 2 === 0 ? 0 : 0.75 * cubeWidth)
-    );
+    const blankArtworks = artworkGroup
+      .selectAll("use.blank")
+      .data(blankData)
+      .join("use")
+      .attr("class", "blank")
+      .attr("xlink:href", (d, i) =>
+        d.unit
+          ? `#unit-${d.unit}`
+          : i % 3 === 0
+          ? "#unit-0"
+          : i % 3 === 1
+          ? "#unit-1"
+          : "#unit-2"
+      )
+      .attr("fill", "#f2f2e8")
+      .attr("stroke", "white")
+      .attr("stroke-width", 1)
+      .attr("x", (d) => d.x * 1.5 * cubeWidth - 80)
+      .attr(
+        "y",
+        (d) =>
+          110 + d.y * 1.5 * cubeWidth + (d.x % 2 === 0 ? 0 : 0.75 * cubeWidth)
+      );
+  }
+
+  drawBlankArtwork();
 
   const tooltip = d3.select("#tooltip");
 
-  d3.select("svg").on("click", displayTooltip);
+  svg.on("click", displayTooltip);
 
   function displayTooltip() {
     tooltip.style("opacity", 0);
   }
 
-  artworks.on("click", showTooltip);
+  d3.selectAll("use.artwork").on("click", showTooltip);
   // .on('mouseleave', onMouseLeave)
 
   function showTooltip(datum) {
