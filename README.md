@@ -26,5 +26,5 @@
 相关推特：[@ShijiaWendy](https://twitter.com/ShijiaWendy/status/1297950623141203968)   
 复现文章记述：写完将会马上更新到公众号`「牛衣古柳」`，敬请期待。   
 效果演示(PC端浏览器最大窗口显示最佳)：https://desertsx.github.io/dataviz-in-action/02-eschers-gallery/index.html
-![](./02-eschers-gallery/复现效果.jpg)
+![](./02-eschers-gallery/复现效果.png)
 
