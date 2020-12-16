@@ -20,8 +20,9 @@
 <body>
     <div id="container">
         <div id="main">
-            <!-- https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/ -->
             <svg id="chart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <!-- 方法1 -->
+                <!-- https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/ -->
                 <defs>
                     <polygon id="unit-0" points="0,0 16,0 16,16 32,16 32,32 0,32"
                         transform="scale(1.4,.8) rotate(-45) translate(-20, 132.3)" />
@@ -30,6 +31,17 @@
                     <polygon id="unit-2" points="0,0 32,0 32,16 16,16 16,32 0,32"
                         transform="skewY(-30) translate(143, 187)" />
                 </defs>
+
+                <!-- 方法2：更优雅，不过相应的 js 部分要跟着大变动所以暂用方法1，有机会再修改 -->
+                <!-- a=32, b=16*Math.sqrt(3)=27.71 b/2=13.86-->
+                <!-- <defs>
+                    <polygon id="unit-0" points="0,0 -27.71,-16 -13.86,-24 0,-16 13.86,-24 27.71,-16"
+                        transform="translate(100,100)" />
+                    <polygon id="unit-1" points="0,0 -27.71,-16 -13.86,-24 0,-16 13.86,-24 27.71,-16"
+                        transform="translate(100,100) rotate(-120)" />
+                    <polygon id="unit-2" points="0,0 -27.71,-16 -13.86,-24 0,-16 13.86,-24 27.71,-16"
+                        transform="translate(100,100) rotate(120)" />
+                </defs> -->
             </svg>
         </div>
 

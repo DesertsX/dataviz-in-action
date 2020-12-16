@@ -100,7 +100,10 @@ async function drawChart() {
     return [groupIdx, col, row];
   };
 
-  const cubeWidth = 32; // 36; // 40
+  // 方法1
+  const cubeWidth = 32;
+  // 方法2
+  // const cubeWidth = (32 / 2) * Math.sqrt(3); // 36; // 40
   //  2%3=2  parseInt(4/3)=1  or Math.floor(4/3)
   const artworkGroup = bounds
     .append("g")
