@@ -34,6 +34,7 @@ async function drawChart() {
     styleCount.push({ style, count });
   }
   // console.log(styleCount);
+  // drawStyleLegend() 里会用到
 
   // 一列最多8组共24个；分成7个年龄组
   // 1898-1917 = 14
@@ -54,7 +55,8 @@ async function drawChart() {
     else if (date < 1958) dateGroup[4].push(d);
     else if (date < 1973) dateGroup[5].push(d);
   });
-  // console.log(dateGroup);
+  console.log(dateGroup);
+  // getXY() 里年龄段已经通过索引 idx 分段写死；这里 dateGroup 仅供个人浏览
 
   const colorScale = {
     "Optical art": "#ffc533",
@@ -104,6 +106,7 @@ async function drawChart() {
   const cubeWidth = 32;
   // 方法2
   // const cubeWidth = (32 / 2) * Math.sqrt(3); // 36; // 40
+
   //  2%3=2  parseInt(4/3)=1  or Math.floor(4/3)
   const artworkGroup = bounds
     .append("g")
