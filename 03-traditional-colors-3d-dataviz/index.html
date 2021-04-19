@@ -109,7 +109,7 @@
         const { Cube, Light, shaders, Plane } = spritejs.ext3d;
 
         async function draw() {
-            const colors = await d3.json('./data/zhongguose_colors_sort.json');
+            const colors = await d3.json('./zhongguose_colors_sort.json');
 
             const container = document.getElementById('stage');
             const scene = new Scene({
