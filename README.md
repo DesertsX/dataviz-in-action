@@ -29,8 +29,12 @@
 ![](./02-eschers-gallery/复现效果.png)
 
 ### EP03: 古柳的「中国传统颜色可视化」
-[中国传统颜色可视化](ttps://www.bilibili.com/video/BV1Dv411W7x4/)作品视频在B站意外小火了下，截止目前(2021.04.19)已经23.2万播放量，原本古柳是用[Zdog](https://zzz.dog/)实现，最初基于[Full Stack Gradient - codepen](https://codepen.io/Sake7/pen/GVWzLE)这一例子实现的过于繁琐，后了解到这个例子[sprite.js+d3.js 绘制3D柱体图](https://github.com/akira-cn/graphics/blob/master/github-contributions/index.html)，于是用更熟悉的 `D3.js` 添加 `3D cube` 的方式重新实现了下，仅供参考。    
+[中国传统颜色可视化](https://www.bilibili.com/video/BV1Dv411W7x4/)作品视频在B站意外小火了下，截止目前(2021.04.19)已经23.2万播放量，原本古柳是用[Zdog](https://zzz.dog/)实现，最初基于[Full Stack Gradient - codepen](https://codepen.io/Sake7/pen/GVWzLE)这一例子实现的过于繁琐，后了解到这个例子[sprite.js+d3.js 绘制3D柱体图](https://github.com/akira-cn/graphics/blob/master/github-contributions/index.html)，于是用更熟悉的 `D3.js` 添加 `3D cube` 的方式重新实现了下，仅供参考。    
 文章记述：[写在「中国传统颜色可视化」视频15万播放小火之际 - 2020.01.21](https://mp.weixin.qq.com/s/-Om5PuTJHwin1ve-bOM-9g)     
 效果演示：https://desertsx.github.io/dataviz-in-action/03-traditional-colors-3d-dataviz/index.html
 ![](./03-traditional-colors-3d-dataviz/复现效果.png)
 
+### EP04: 古柳的「松村沙友理B站视频播放量可视化」
+知晓`「松村沙友理/傻苹果🍎」`将从`乃木坂46`毕业的消息后，古柳动心起念想到可以用自己熟悉的方式、用数据可视化的方式表达纪念并祝福下`"傻苹果🍎"`毕业快乐。于是爬取B站搜索`「松村沙友理」`返回的一千条视频数据，以苹果花为视觉元素，按年份分组排列，加上力导向布局后做出了这个可视化作品。    
+文章记述：[用可视化的方式祝福小偶像毕业快乐（上） - 2021.04.20](https://mp.weixin.qq.com/s/T4RgfMfiOm5EZrwPsqg2zA)、[用可视化的方式祝福小偶像毕业快乐（下） - 2021.05.10](https://mp.weixin.qq.com/s/QS34hGkLpIZTpPKow7MW1w)    
+![](./04-sayuri-video-play/效果图.png)
